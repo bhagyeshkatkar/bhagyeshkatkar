@@ -47,7 +47,7 @@
   <a href="https://twitter.com/katkar_bhagyesh" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30"/>
   </a>
-  <a href="https://linkedin.com/in/bhagyesh-katkar" target="blank">
+  <a href="https://www.linkedin.com/in/bhagyesh-katkar-5b2893209/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
   <a href="https://instagram.com/_bhagyeshhh_" target="blank">
