@@ -2,12 +2,9 @@
 
 <p align="center">
  <img src="https://media.giphy.com/media/3o7aD4hz3Y1bdgGfua/giphy.gif" alt="Luffy anime gif" width="250" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-
 </p>
 
-<h3 align="center">Aspiring Data Analyst | Fresher with Skills in Big Data, Python, and Cloud</h3>
-<!-- Rest of your README content -->
-
+<h3 align="center">📊 Aspiring Data Analyst | Big Data Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhagyeshkatkar&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyeshkatkar" />
@@ -25,24 +22,31 @@
   </a>
 </p>
 
-### 🌱 I’m currently learning
+---
+
+### 🚀 About Me  
+A fresher with a strong foundation in **Python, SQL, MySQL, MongoDB, Django, Java, Linux, AWS, and Cloud Computing**. Passionate about **Big Data** technologies, including **Hadoop, HDFS, MapReduce, YARN, Hive, Kafka, Spark, PySpark.**
+
+🚀 Ready to apply analytical skills to real-world challenges!  
+💬 Ask me about **data analytics, big data tools, and cloud technologies**.
+
+---
+
+### 🌱 I’m currently learning  
 **Hadoop, Spark, Hive, AWS, and MVC**
 
-### 👨‍💻 All of my projects are available at
+### 👨‍💻 All of my projects are available at  
 [GitHub Repositories](https://github.com/bhagyeshkatkar?tab=repositories)
 
-### 💬 Ask me about
-**Python, SQL, Big Data, and Cloud**
-
-### 📫 How to reach me
+### 📫 How to reach me  
 **bhagyeshkatkar2002@gmail.com**
 
-### 📄 Know about my experiences
+### 📄 Know about my experiences  
 [My Portfolio](https://bhagyeshkatkar.github.io/bhagyesh_portfolio/)
 
 ---
 
-### Connect with me:
+### Connect with me:  
 <p align="left">
   <a href="https://twitter.com/katkar_bhagyesh" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30"/>
@@ -63,7 +67,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools  
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
