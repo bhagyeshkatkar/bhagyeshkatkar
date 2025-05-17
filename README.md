@@ -24,11 +24,15 @@
 
 ---
 
-### 🚀 About Me  
-A fresher with a strong foundation in **Python, SQL, MySQL, MongoDB, Django, Java, Linux, AWS, and Cloud Computing**. Passionate about **Big Data** technologies, including **Hadoop, HDFS, MapReduce, YARN, Hive, Kafka, Spark, PySpark.**
-
-🚀 Ready to apply analytical skills to real-world challenges!  
-💬 Ask me about **data analytics, big data tools, and cloud technologies**.
+### 🚀 About Me
+Passionate and skilled IT graduate with hands-on experience in **Python, SQL, MySQL, MongoDB, Django, Java, Linux, AWS, Machine Learning and Cloud Computing**. Enthusiastic about Big Data technologies, including Hadoop, HDFS, MapReduce, YARN, Hive, Kafka, Spark, PySpark—eager to apply analytical skills to solve real-world challenges.
+💡 Developed innovative projects like a **Self-checkout Smart Store System** and a **video transcript summarizer**, leveraging technical expertise to create practical solutions.
+📊 Technical Stack
+- Languages: C, C++, Python, Java, R
+- Web Development: HTML, CSS, JavaScript, Django
+- Data Science & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
+- Core Concepts: OOPS, Data Structures & Algorithms, DBMS, OS, Computer Networks, SQL
+💬 Ask me about: Data Analytics, Big Data tools, Cloud Technologies, and Data Visualization.
 
 ---
 
