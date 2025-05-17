@@ -27,6 +27,7 @@
 ### 🚀 About Me
 Passionate and skilled IT graduate with hands-on experience in **Python, SQL, MySQL, MongoDB, Django, Java, Linux, AWS, Machine Learning and Cloud Computing**. Enthusiastic about Big Data technologies, including Hadoop, HDFS, MapReduce, YARN, Hive, Kafka, Spark, PySpark—eager to apply analytical skills to solve real-world challenges.
 💡 Developed innovative projects like a **Self-checkout Smart Store System** and a **video transcript summarizer**, leveraging technical expertise to create practical solutions.
+
 📊 Technical Stack
 - Languages: C, C++, Python, Java, R
 - Web Development: HTML, CSS, JavaScript, Django
