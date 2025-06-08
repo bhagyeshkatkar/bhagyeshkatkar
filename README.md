@@ -4,9 +4,6 @@
  <img src="https://media.giphy.com/media/3o7aD4hz3Y1bdgGfua/giphy.gif" alt="Luffy anime gif" width="250" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </p>
 
-<p align="center">
- 🎥 <a href="https://raw.githubusercontent.com/your-username/your-repo/main/path-to-video/92186dcd-b1c1-41d5-a0df-9c564c7918eb.mp4">Watch My Project Video</a>
-</p>
 <h3 align="center">📊 Aspiring Data Analyst | Big Data Enthusiast</h3>
 
 <p align="center">
